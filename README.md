@@ -35,5 +35,3 @@
     <li> Provide minimal data structure unlike other scripting languages. </li>
     </ul>
 </ul>
-
-![Optional Text](../master/myFolder/image.png)
